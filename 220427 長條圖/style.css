@@ -1,0 +1,17 @@
+svg{
+    border : 1px solid #ccc;
+}
+
+.axis .domain{
+    stroke: none;
+}
+
+.x line{
+    stroke: white; /*把線換成白色*/
+}
+
+body {
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(245, 251, 255);
+}

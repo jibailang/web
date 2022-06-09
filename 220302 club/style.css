@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-color: antiquewhite;
+    
+}
+
+table{
+    width:60%;
+    margin:auto;
+    font-size:1.5em;
+    
+}
+td:hover { 
+    background-color: rgba(192, 91, 91, 0.589);
+  }
+
+td{
+    border-bottom: 1px solid blue;
+}
